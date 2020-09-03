@@ -1,0 +1,54 @@
+body {
+  background: #040404;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 100;
+}
+
+#mainNavbar .navbar-brand {
+  color: #EAEAEA;
+  font-size: 1.5rem;
+}
+
+#mainNavbar .nav-link {
+  color: #777777;
+}
+
+#mainNavbar .nav-link:hover {
+  color: #EAEAEA;
+}
+
+#mainNavbar {
+  font-size: 1.2rem;
+  font-family: 'Dosis', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#brandImg {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+#locimg {
+  width: 60px;
+  height: 90px;
+  margin-top: 2rem;
+}
+
+.navbar.scrolled {
+  background: #EAEAEA;
+  transition: background 500ms;
+}
+
+.ggl.brand {
+  color: #040404;
+}
+
+#locimg2 {
+  width: 400px;
+  height: 80px;
+}
+
+#locimg3 {
+  width: 400px;
+  height: 100px;
+}
